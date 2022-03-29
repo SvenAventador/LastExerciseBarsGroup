@@ -1,0 +1,10 @@
+We starting our logger
+[Info] : [Int32] : Start!
+[Warning] : [Int32] : Warning!
+[Error] : [Int32] : Error!.Insufficient memory to continue the execution of the program.
+[Info] : [Char] : Start!
+[Warning] : [Char] : Warning!
+[Error] : [Char] : Error!.Insufficient memory to continue the execution of the program.
+[Info] : [Boolean] : Start!
+[Warning] : [Boolean] : Warning!
+[Error] : [Boolean] : Error!.Insufficient memory to continue the execution of the program.

@@ -1,0 +1,15 @@
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\bin\Debug\net6.0\firstExercise.exe
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\bin\Debug\net6.0\firstExercise.deps.json
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\bin\Debug\net6.0\firstExercise.runtimeconfig.json
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\bin\Debug\net6.0\firstExercise.dll
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\bin\Debug\net6.0\firstExercise.pdb
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.csproj.AssemblyReference.cache
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.AssemblyInfoInputs.cache
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.AssemblyInfo.cs
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.csproj.CoreCompileInputs.cache
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.dll
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\refint\firstExercise.dll
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.pdb
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\firstExercise.genruntimeconfig.cache
+C:\Users\sasas\Desktop\LastExerciseBarsGroup\firstExercise\firstExercise\obj\Debug\net6.0\ref\firstExercise.dll

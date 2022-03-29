@@ -1,0 +1,9 @@
+[Info] : [Int32] : Start!
+[Warning] : [Int32] : Warning!
+[Error] : [Int32] : Error!.Could not load the specified file.
+[Info] : [Char] : Start!
+[Warning] : [Char] : Warning!
+[Error] : [Char] : Error!.Could not load the specified file.
+[Info] : [Boolean] : Start!
+[Warning] : [Boolean] : Warning!
+[Error] : [Boolean] : Error!.Could not load the specified file.
